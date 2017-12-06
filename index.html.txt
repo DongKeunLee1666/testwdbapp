@@ -1,0 +1,12 @@
+<html>
+	<head>
+	
+		<title> Welcome to azure site	</title>
+		</head>
+<body>
+<h2>Hello, Everyone,V1</h2>
+
+</body>
+
+
+</html>
